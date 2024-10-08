@@ -60,7 +60,6 @@ How to Run
 
 Install the necessary dependencies by running the following command:
 bash
-复制代码
 pip install -r requirements.txt
 Load the dataset files (not included in the repository) as described in the report.
 Execute the Jupyter notebooks in the order mentioned above to reproduce the results.
